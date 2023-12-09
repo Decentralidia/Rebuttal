@@ -1,3 +1,7 @@
+** Reviewr 1**
+
+
+
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them.
 
 **1. Are the authors considering the use of additional metrics, beyond accuracy?**
