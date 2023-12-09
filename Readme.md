@@ -8,7 +8,7 @@ We thank you for your valuable comments on our submission “User Voices, Platfo
 
 Thanks for providing a comprehensive evaluation with pros and cons from different perspectives for this paper. In this part, we will address some of your mentioned concerns which are not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
-About nature of the Tweets and dataset gathering, as mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+About the nature of the tweets and dataset gathering, as mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
 ##### Three-Level System for Generating Tweets:
 
