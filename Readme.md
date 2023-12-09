@@ -86,6 +86,11 @@ That is a completely valid concern. We ran our models again without using ensemb
 
 <h3>Additional:1. As mentioned in the section above, qualitative analysis on the confusion matrices presented Fig 3-5 would provide interesting insights. Also providing a disaggregated analysis on how the model performs for different users would provide more credence to some of the claims the paper makes.</h3>
 
+
+Thank you for your suggestion. Offering a detailed analysis of individual user performance could indeed provide valuable insights into the data. However, in our experiment, we opted to simplify the problem by removing user profiles and maintaining user anonymity regarding personal information. This decision was made to prevent complications for users, especially since it was our first time conducting such an experiment. By keeping the user experience straightforward, we aimed to retain more participants. 
+
+Consequently, we lack additional information about each user, making it impossible to explore the correlation between personal attributes and opinions for disaggregated results. While we acknowledge the merit of this idea, we believe it can be addressed in future studies and discussions.
+
 <hr>
 
 <h3>Additional:2. In Fig. 2, it shows that the threshold is 0.5. I imagine the threshold here is quite important and am not sure if 0.5 is the best value to select. Have you evaluated across different threshold values?</h3>
