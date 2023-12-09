@@ -1,6 +1,6 @@
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them.
 
-**`1. Are the authors considering the use of additional metrics, beyond accuracy?`**
+<div style="background-color: #FFFF00">1. Are the authors considering the use of additional metrics, beyond accuracy?</div>
 
 Thank you for your feedback regarding the reported metrics. However, as indicated in `Section 6.2` of the paper (lines 617 and 618), we addressed the issue of imbalanced data in our test dataset by ensuring equal samples from both groups for the final evaluation. Consequently, we opted to focus solely on the accuracy metric, considering space constraints in the paper.
 
