@@ -2,7 +2,7 @@
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following responses. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
 
-<hr>
+---
 
 <h3>1. Are the authors considering the use of additional metrics, beyond accuracy?</h3>
 
