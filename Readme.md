@@ -1,4 +1,4 @@
-# Reviewr 1
+# Reviewer 1
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following responses. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
 
@@ -43,7 +43,7 @@ Throughout the experiment, we placed a high priority on fostering unbiased and s
 
 
 
-# Reviewr 2
+# Reviewer 2
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following responses. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
 
@@ -141,6 +141,6 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
 
 
 
-# Reviewr 3
+# Reviewer 3
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. Furthermore, I appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is valuable, prompting us to delve deeper into the analysis of the results.
