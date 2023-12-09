@@ -68,6 +68,14 @@ We strategically distributed the survey across various platforms to cover a wide
 
 We also hypothesize that the low correlation between LLMs and users' policy is related to RLHF. Interestingly we observe that LLMs' policy is highly correlated with users' preferences (likes - dislikes). This observation could support the effect of RLHF in LLM-driven policies.
 
+| LLM                    | Similarity to Votes | Similarity to Like/Dislike |
+|------------------------|---------------------|----------------------------|
+| Web Search             | 40.84%              | 71.25%                     |
+| GPT-3.5-Turbo          | 38.1%               | 75.09%                     |
+| Solar-0-70b            | 44.51%              | 71.61%                     |
+| GPT-3.5-Turbo-Instruct | 37.91%              | 70.15%                     |
+| Perpelexity            | 37.91%              | 92.12%                     |
+
 <hr>
 
 <h3>3. In Table 4., the authors provide an ablation study comparing the policy estimator with and without context decoder. Is there a similar ablation study comparing performance with the ensemble of policy models versus only one policy model?</h3>
