@@ -35,7 +35,64 @@ Initially, our project envisioned compelling users to provide reasons when votin
 
 Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although the idea of posing questions such as "X suggests that this post should be vetted because _____ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to minimize the potential for bias in the respondents' final opinions.
 
+
+
+
+
+
+
 <h1>Reviewr 2</h1>
+
+We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them.
+
+<hr>
+
+<h3>1. Who are the participants used in the study? There are mentions in lns. 36-37 that the participants are from diverse backgrounds. However, the author does not provide any demographic breakdown on participants excluding their age. Furthermore, were there any inclusion criteria for the participants (i.e., Twitter usership)?</h3>
+
+Thank you for providing concise feedback. Ensuring respondent diversity was a key priority in our crowdsourcing process. Before initiating the process, we established seven primary metrics (as outlined in `Section 4.3`, line 359) to encompass variations in:
+<ol>
+  <li>Age</li>
+  <li>Gender</li>
+  <li>Race</li>
+  <li>Profession</li>
+  <li>Education Level</li>
+  <li>Sexual Orientation</li>
+  <li>Familiarity with X (didn’t use, mildly use and frequently use X)</li>
+</ol>
+
+We strategically distributed the survey across various platforms to cover a wide range of combinations for these metrics. However, due to space constraints and the anonymous nature of the paper, we opted to provide more information about the core problem addressed in this paper rather than detailing the intricacies of the crowdsourcing process.
+
+<hr>
+
+<h3>2. For the large language models used in Sec. 6, how were these models prompted? How do language models fare if we supply a few examples from the collected dataset? As a sub-point, in Figure 4, the LLMs err on the side of removing content. I wonder if this is a product of RLHF. Did the authors look at non-RLHF’d models?</h3>
+
+We also hypothesize that the low correlation between LLMs and users' policy is related to RLHF. Interestingly we observe that LLMs' policy is highly correlated with users' preferences (likes - dislikes). This observation could support the effect of RLHF in LLM-driven policies.
+
+<hr>
+
+<h3>3. In Table 4., the authors provide an ablation study comparing the policy estimator with and without context decoder. Is there a similar ablation study comparing performance with the ensemble of policy models versus only one policy model?</h3>
+
+<hr>
+
+<h3>Additional:1. As mentioned in the section above, qualitative analysis on the confusion matrices presented Fig 3-5 would provide interesting insights. Also providing a disaggregated analysis on how the model performs for different users would provide more credence to some of the claims the paper makes.</h3>
+
+<hr>
+
+<h3>Additional:2. In Fig. 2, it shows that the threshold is 0.5. I imagine the threshold here is quite important and am not sure if 0.5 is the best value to select. Have you evaluated across different threshold values?</h3>
+
+<hr>
+
+<h3>Finally:1. In Fig. 1, the text asks “Should this tweet be remained?” Could the authors explain the rationale for phrasing the question as “be remained?” Is this standard jargon for content moderation?</h3>
+
+Thank you for your professional feedback. We use clear language to make our requests straightforward for respondents, considering their international background. Using overly complex text can increase cognitive load, so we simplify and clarify concepts with color and grading. Exploring the impact of specific words in our requests, like "remained" or "in the border view," could be an interesting topic for future research. Consequently, it is a great idea to investigate the effect of UI/UX (User Interface/User Experience) in further discussions.
+
+<hr>
+
+<h3>Finally:2. In lns. 303-315, the authors mention that they made a pool of tweets. How were these tweets made? Are they scraped online or manually crafted by the authors? If they were scraped, what was the inclusion criteria? If they were manually crafted, what was the rationale for doing so? How did the authors ensure the tweets are similar to content actually found / blocked on X?</h3>
+
+
+
+
 
 <h1>Reviewr 3</h1>
 
