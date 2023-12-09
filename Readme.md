@@ -106,7 +106,7 @@ Thank you for your professional feedback. We use clear language to make our requ
 
 Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
-### Three-Level System for Generating Tweets:
+#### Three-Level System for Generating Tweets:
 
 1. **Discovery:**
    - The tweets refinement and gathering core team master X’s policy for blocking tweets by reading all of X’s guidelines and policies carefully.
