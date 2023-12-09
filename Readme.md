@@ -80,6 +80,8 @@ We also hypothesize that the low correlation between LLMs and users' policy is r
 
 <h3>3. In Table 4., the authors provide an ablation study comparing the policy estimator with and without context decoder. Is there a similar ablation study comparing performance with the ensemble of policy models versus only one policy model?</h3>
 
+That is a completely valid concern. We ran our models again without using ensemble learning, but the difference in performance was not significant. Initially, as using ensemble learning in our "Context Decoder" module improved performance, we thought this approach would improve the "Context Decoder" model too, so we included it by default. However, after reevaluating, it seems that using ensemble learning in the "Policy Estimator" doesn't significantly enhance performance. Thanks for your feedback.
+
 <hr>
 
 <h3>Additional:1. As mentioned in the section above, qualitative analysis on the confusion matrices presented Fig 3-5 would provide interesting insights. Also providing a disaggregated analysis on how the model performs for different users would provide more credence to some of the claims the paper makes.</h3>
