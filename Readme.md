@@ -105,6 +105,35 @@ Thank you for your professional feedback. We use clear language to make our requ
 
 <h3>Finally:2. In lns. 303-315, the authors mention that they made a pool of tweets. How were these tweets made? Are they scraped online or manually crafted by the authors? If they were scraped, what was the inclusion criteria? If they were manually crafted, what was the rationale for doing so? How did the authors ensure the tweets are similar to content actually found / blocked on X?</h3>
 
+Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of section 4.1, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+
+### Three-Level System for Generating Tweets:
+
+1. **Discovery:**
+   - The tweets refinement and gathering core team master X’s policy for blocking tweets by reading all of X’s guidelines and policies carefully.
+   - Gain a deep insight by reading a large amount of tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
+   - Include metrics in the process of reading tweets (about the Tweets sender) if possible:
+     - Age
+     - Gender
+     - Race
+     - Profession
+     - Education level
+     - Sexual orientation
+
+2. **Delivery:**
+   - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X’s algorithm on removing tweets, start generating tweets with the following workflow:
+     - For unblocked tweets:
+       - Choose ChatGPT or the real tweets on X as your source.
+       - Customize it and make it more natural and human-like using the insight gained through the X’s tweets research step.
+     - For blocked tweets:
+       - Choose a policy-violated tweet on X.
+       - Customize it using the insight gained through the discovery (X’s tweets research) step.
+       - OR choose a policy and a tweet that can violate it with some changes, then customize it and make it violating the policy using the insight gained through the discovery (X’s tweets research) step and the knowledge gained from policies.
+
+3. **Assurance:**
+   - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
+   - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
+
 
 
 
