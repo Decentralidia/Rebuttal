@@ -130,7 +130,8 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
      - For blocked tweets:
        - Choose a policy-violated tweet on X.
        - Customize it using the insight gained through the discovery (X’s tweets research) step.
-       - OR choose a policy and a tweet that can violate it with some changes, then customize it and make it violating the policy using the insight gained through the discovery (X’s tweets research) step and the knowledge gained from policies.
+       - OR choose a policy and a tweet that can violate it with some changes.
+       - Then customize it and make it violating the policy using the insight gained through the discovery (X’s tweets research) step and the knowledge gained from policies.
 
 3. **Assurance:**
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
