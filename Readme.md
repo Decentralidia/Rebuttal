@@ -4,6 +4,15 @@ We thank you for your valuable comments on our submission “User Voices, Platfo
 
 ***
 
+### Pros and Cons
+
+Thanks for providing a comprehensive evaluation from different perspectives for this paper. 
+
+
+Additionally, thank you for your attention to the details of our manuscript and the nuanced points you highlighted.
+
+***
+
 ### 1. Are the authors considering the use of additional metrics, beyond accuracy?
 
 
@@ -51,18 +60,16 @@ We thank you for your valuable comments on our submission “User Voices, Platfo
 
 ### 1. Who are the participants used in the study? There are mentions in lns. 36-37 that the participants are from diverse backgrounds. However, the author does not provide any demographic breakdown on participants excluding their age. Furthermore, were there any inclusion criteria for the participants (i.e., Twitter usership)?
 
-Thank you for providing concise feedback. Ensuring respondent diversity was a key priority in our crowdsourcing process. Before initiating the process, we established seven primary metrics (as outlined in `Section 4.3`, line 359) to encompass variations in:
+Thank you for providing concise feedback. Ensuring respondent diversity was a key priority in our crowdsourcing process. Before initiating the process, we established four primary metrics (as outlined in `Section 4.3`, line 359) to encompass variations in:
 
 1. Age
 2. Gender
 3. Race
 4. Profession
-5. Education Level
-6. Sexual Orientation
-7. Familiarity with X (didn’t use, mildly use, and frequently use X)
 
+Additionally, we implicitly took into account Education Level, Sexual Orientation, and Familiarity with X (didn't use, mildly use, and frequently use X) as secondary metrics in crowdsourcing, in addition to the primary metrics.
 
-We strategically distributed the survey across various platforms to cover a wide range of combinations for these metrics. However, due to space constraints and the anonymous nature of the paper, we opted to provide more information about the core problem addressed in this paper rather than detailing the intricacies of the crowdsourcing process.
+Subsequently, we strategically distributed the survey across various platforms to cover a wide range of combinations for these metrics. However, due to space constraints and the anonymous nature of the paper, we opted to provide more information about the core problem addressed in this paper rather than detailing the intricacies of the crowdsourcing process.
 
 ***
 
