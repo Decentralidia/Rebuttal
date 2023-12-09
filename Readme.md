@@ -8,9 +8,40 @@ We thank you for your valuable comments on our submission “User Voices, Platfo
 
 Thanks for providing a comprehensive evaluation from different perspectives for this paper. 
 
+About nature of the Tweets and dataset gathering, as mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+
+##### Three-Level System for Generating Tweets:
+
+1. **Discovery:**
+   - The tweets refinement and gathering core team master X’s policy for blocking tweets by reading all of X’s guidelines and policies carefully.
+   - Gain a deep insight by reading a large amount of tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
+   - Include metrics in the process of reading tweets (about the Tweets sender) if possible:
+     - Age
+     - Gender
+     - Race
+     - Profession
+     - Education level
+     - Sexual orientation
+
+2. **Delivery:**
+   - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X’s algorithm on removing tweets, start generating tweets with the following workflow:
+     - For unblocked tweets:
+       - Choose ChatGPT or the real tweets on X as your source.
+       - Customize it and make it more natural and human-like using the insight gained through the X’s tweets research step.
+     - For blocked tweets:
+       - Choose a policy-violated tweet on X.
+       - Customize it using the insight gained through the discovery (X’s tweets research) step.
+       - OR choose a policy and a tweet that can violate it with some changes.
+       - Then customize it and make it violating the policy using the insight gained through the discovery (X’s tweets research) step and the knowledge gained from policies.
+
+3. **Assurance:**
+   - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
+   - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
+
 
 Additionally, thank you for your attention to the details of our manuscript and the nuanced points you highlighted.
 
+It is worthy to note that, other points are discussed in the below questions and answers.
 ***
 
 ### 1. Are the authors considering the use of additional metrics, beyond accuracy?
@@ -55,6 +86,14 @@ Throughout the experiment, we placed a high priority on fostering unbiased and s
 # Reviewer 2
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following responses. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
+
+*** 
+
+### Pros and Cons
+
+Thanks for providing a comprehensive evaluation from different perspectives for this paper. 
+
+It is worthy to note that, other points are discussed in the below questions and answers.
 
 ***
 
