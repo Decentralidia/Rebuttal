@@ -105,7 +105,7 @@ Thank you for your professional feedback. We use clear language to make our requ
 
 <h3>Finally:2. In lns. 303-315, the authors mention that they made a pool of tweets. How were these tweets made? Are they scraped online or manually crafted by the authors? If they were scraped, what was the inclusion criteria? If they were manually crafted, what was the rationale for doing so? How did the authors ensure the tweets are similar to content actually found / blocked on X?</h3>
 
-Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of section 4.1, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
 ### Three-Level System for Generating Tweets:
 
