@@ -18,6 +18,9 @@ We sincerely appreciate your valuable feedback and acknowledgment of similar pro
 
 In contrast, our project centers around the development of a **decentralized policy** for social media governance, leveraging community preferences alongside a machine learning-based module. Moreover, while we haven't come across projects that closely resemble our work, the application of decentralization in policy making is not a novel concept, and we are employing it within the context of social media platforms. Furthermore, we have drawn inspiration from fundamental ideas in Machine Learning concepts and methods, incorporating them into our decentralized policy-making approach, which is novel in our case.
 
+
+Moreover, there are other social media platforms that adopt decentralized approaches or personalization features, such as [Mastodon](https://joinmastodon.org) and [Peepeth](https://peepeth.com). However, their approaches differ from ours. For instance, "Mastodon" customizes users' feeds based on their preferences rather than conforming to social media decisions. Additionally, "Peepeth" operates as a blockchain-powered social media platform with a distinct approach, while we provided a **decentralized policy-making**, coupled with utilizing a **policy estimator ML-based module**.
+
 ***
 
 ### 3. What are the policies about vetting shared by X? Are they following the shared policies?
