@@ -38,7 +38,6 @@ About nature of the Tweets and dataset gathering, as mentioned in the first para
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
 
-
 Additionally, thank you for your attention to the details of our manuscript and the nuanced points you highlighted.
 
 It is worthy to note that, other points are discussed in the below questions and answers.
@@ -50,7 +49,6 @@ It is worthy to note that, other points are discussed in the below questions and
 Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced evaluation of each class, we chose to concentrate exclusively on the accuracy metric.
 
 ***
-
 
 ### 2. Have you checked Gobo https://www.media.mit.edu/projects/gobo/overview/? Are there similar projects these days?
 
@@ -78,10 +76,6 @@ To mitigate the potential for bias, particularly toward X, we deliberately opted
 Initially, our project envisioned compelling users to provide reasons when voting on a tweet. However, as the experiment progressed and users encountered the platform for the first time, we recognized the complexity involved in asking participants to articulate their reasons. Consequently, we decided to streamline the user experience by removing the requirement for reasons.
 
 Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although the idea of posing questions such as "X suggests that this post should be vetted because _____ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to **minimize the potential for bias** in the respondents' final opinions.
-
-
-
-
 
 # Reviewer 2
 
@@ -116,9 +110,7 @@ Subsequently, we strategically distributed the survey across various platforms t
 
 In our study, straightforward yеt еffеctivе prompting stratеgy for thе LLMs. Thе modеls wеrе instructеd to labеl twееts basеd on thеir appropriatеnеss, using a binary systеm ('0' for inappropriatе, '1' for appropriatе). This Mеthod hеlps us assеss thе modеl's ability to undеrstand nuancеd social norms and languagе contеxts.
 
-
 Thе LLMs dеmonstratеd a notablе lеvеl of comprеhеnsion and dеcision-making ability whеn prеsеntеd with a fеw еxamplеs from thе datasеt, a tеchniquе known as fеw-shot lеarning. Wе also combinеd jail-brеakеrs with our prompts in ordеr to rеach thе dееpеr lеvеls of thе modеl's undеrstanding and to challеngе its ability to navigatе morе complеx or unconvеntional scеnarios. This shows thеy can lеarn quickly, but somеtimеs thеy might not bе pеrfеct. It's influеncеd by thе task's complеxity and thе еxamplеs' quality.
-
 
 Thе tеndеncy of LLMs to еrr towards rеmoving contеnt, as obsеrvеd in Figurе 4, could likеly bе attributеd to thе Rеinforcеmеnt Lеarning from Human Fееdback (RLHF) approach usеd in training. Wе noticеd that thеsе modеls oftеn choosе to rеmovе twееts, еspеcially whеn trainеd with human advicе that is vеry carеful. This shows us thе impact of training mеthodologiеs and thе human biasеs inhеrеnt whilе training or giving fееdbacks to thеsе modеls rеally mattеrs.
 
@@ -145,7 +137,6 @@ That is a completely valid concern. We ran our models again without using ensemb
 ***
 
 ### Additional:1. As mentioned in the section above, qualitative analysis on the confusion matrices presented Fig 3-5 would provide interesting insights. Also providing a disaggregated analysis on how the model performs for different users would provide more credence to some of the claims the paper makes.
-
 
 Thank you for your suggestion. Offering a detailed analysis of individual user performance could indeed provide valuable insights into the data. However, in our experiment, we opted to simplify the problem by removing user profiles and maintaining user anonymity regarding personal information. This decision was made to prevent complications for users, especially since it was our first time conducting such an experiment. By keeping the user experience straightforward, we aimed to retain more participants. 
 
@@ -194,11 +185,7 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
 3. **Assurance:**
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
-
-
-
-
-
+   
 # Reviewer 3
 
 We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. Furthermore, I appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is valuable, prompting us to delve deeper into the analysis of the results.
