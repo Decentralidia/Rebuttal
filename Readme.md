@@ -78,7 +78,7 @@ Throughout the experiment, we placed a high priority on fostering unbiased and s
 
 # Reviewer 2
 
-We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. We addressed your concerns in the following by iterating on your questions and providing corresponding response to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following responses. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
+Thank you for your valuable comments on our submission "User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt." We addressed your concerns in the following by iterating on your questions and providing corresponding responses to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following reactions. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
 
 *** 
 
