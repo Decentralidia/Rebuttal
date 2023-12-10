@@ -186,7 +186,6 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
 You’ve also pointed out that _"The authors chose relatively low stakes domains (e.g., technology, entertainment) for tweets."_ First of all, thank you for your feedback on our tweets domain. I have to mention that we implemented topics such as politics, Gender, Race and some other different controversial topics in the tweets coated with the chosen topics (e.g., technology, entertainment).
 The big strength of these topics is their generality. So that the respondent can easily recognize the context of the tweet and make a clear relation with it, which is followed by a more fluent formation of opinion by him/her. This frictionless experience only came about because of using popular topics as the main theme and adding controversial concepts to the theme in order to form both easy on the eye and challenging situations for the respondent.
 
-   
 # Reviewer 3
 
 We thank you for your valuable comments on our submission "User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt". Furthermore, I appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is valuable, prompting us to delve deeper into the analysis of the results.
