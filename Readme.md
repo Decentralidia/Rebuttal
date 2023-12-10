@@ -1,12 +1,12 @@
 # Reviewer 1
 
-Thank you for your valuable comments and suggestions on our submission. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following paragraphs. Nevertheless, please ask without hesitation if you have any additional concerns or questions.
+Thanks for your valuable review and comments. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following paragraphs.
 
 ***
 
 ### Pros and Cons
 
-Thanks for comprehensively evaluating this paper's pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
+In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
 About the nature of the tweets and dataset gathering, as mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
