@@ -185,4 +185,4 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
    
 # Reviewer 3
 
-We thank you for your valuable comments on our submission “User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt”. Furthermore, I appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is valuable, prompting us to delve deeper into the analysis of the results.
+We thank you for your valuable comments on our submission "User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt". Furthermore, I appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is valuable, prompting us to delve deeper into the analysis of the results.
