@@ -1,10 +1,10 @@
 # Reviewer 1
 
-Thanks for your valuable review and comments. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following paragraphs.
+Thank you for your valuable comments and suggestions on our submission. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following paragraphs. Nevertheless, please ask without hesitation if you have any additional concerns or questions.
 
 ***
 
-### Pros and Cons
+### Regarding Pros and Cons
 
 In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
@@ -42,7 +42,7 @@ Additionally, thank you for your attention to the details of our manuscript and 
 
 ***
 
-### Questions:
+### Regarding Questions:
 
 ***
 
