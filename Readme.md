@@ -188,7 +188,6 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
 
-
 # Reviewer 3
 
 We thank you for your valuable comments on our submission. Furthermore, We appreciate your kindness in highlighting areas for improvement to facilitate a more comprehensive discussion. Your suggestion is helpful, encouraging us to include a deeper analysis of the results related to LLMs' behavior. Some of these aspects are mentioned in the response of the reviewer SoMP and a concise analysis will be added to the camera-ready version of the paper. However, focusing on LLM-driven policies (instead of data-driven approaches) is beyond the scope of this study, and as we mentioned in the response of reviewer SoMP, this topic deserves more dedicated studies.
