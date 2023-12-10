@@ -77,13 +77,15 @@ Throughout the experiment, we placed a high priority on fostering unbiased and s
 
 # Reviewer 2
 
-Thank you for your valuable comments on our submission "User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt." We addressed your concerns in the following by iterating on your questions and providing corresponding responses to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following reactions. Nevertheless, if you have any additional concerns or questions, please feel free to ask without hesitation.
+Thanks for your constructive feedback and helpful comments.
 
 *** 
 
 ### Pros and Cons
 
 Thanks for providing a comprehensive evaluation of this paper with pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
+
+Your comment about majority/minority groups is insightful. Since we train our policy model based on the aggregated data, it will follow the policy based on the average of users when each data point is treated equally. It will be a good direction for future studies to first cluster individuals into different groups based on their historical behavior in social media, and then offer specialized policies for each group. This could be considered as the second phase of the present study, focusing on fairness and reducing algorithmic biases.
 
 You’ve pointed out that _"The authors chose relatively low stakes domains (e.g., technology, entertainment) for tweets."_ First of all, thank you for your feedback on our tweets domain. I have to mention that we implemented topics such as politics, Gender, Race and some other different controversial topics in the tweets coated with the chosen topics (e.g., technology, entertainment).
 The big strength of these topics is their generality. So that the respondent can easily recognize the context of the tweet and make a clear relation with it, which is followed by a more fluent formation of opinion by him/her. This frictionless experience only came about because of using popular topics as the main theme and adding controversial concepts to the theme in order to form both easy on the eye and challenging situations for the respondent.
