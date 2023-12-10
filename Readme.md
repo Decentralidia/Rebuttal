@@ -85,6 +85,9 @@ Thank you for your valuable comments on our submission "User Voices, Platform Ch
 
 Thanks for providing a comprehensive evaluation of this paper with pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
+You’ve pointed out that _"The authors chose relatively low stakes domains (e.g., technology, entertainment) for tweets."_ First of all, thank you for your feedback on our tweets domain. I have to mention that we implemented topics such as politics, Gender, Race and some other different controversial topics in the tweets coated with the chosen topics (e.g., technology, entertainment).
+The big strength of these topics is their generality. So that the respondent can easily recognize the context of the tweet and make a clear relation with it, which is followed by a more fluent formation of opinion by him/her. This frictionless experience only came about because of using popular topics as the main theme and adding controversial concepts to the theme in order to form both easy on the eye and challenging situations for the respondent.
+
 ***
 
 ### Questions:
@@ -182,9 +185,7 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
 3. **Assurance:**
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
-  
-You’ve also pointed out that _"The authors chose relatively low stakes domains (e.g., technology, entertainment) for tweets."_ First of all, thank you for your feedback on our tweets domain. I have to mention that we implemented topics such as politics, Gender, Race and some other different controversial topics in the tweets coated with the chosen topics (e.g., technology, entertainment).
-The big strength of these topics is their generality. So that the respondent can easily recognize the context of the tweet and make a clear relation with it, which is followed by a more fluent formation of opinion by him/her. This frictionless experience only came about because of using popular topics as the main theme and adding controversial concepts to the theme in order to form both easy on the eye and challenging situations for the respondent.
+
 
 # Reviewer 3
 
