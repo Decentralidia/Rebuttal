@@ -1,6 +1,6 @@
 # Reviewer 1
 
-Thank you for your valuable comments on our submission "User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt." We addressed your concerns in the following by iterating on your questions and providing corresponding responses to them. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following reactions. Nevertheless, please ask without hesitation if you have any additional concerns or questions.
+Thank you for your valuable comments and suggestions on our submission. We aim to thoroughly comprehend your questions and concerns and address them to the best of our ability in the following paragraphs. Nevertheless, please ask without hesitation if you have any additional concerns or questions.
 
 ***
 
@@ -40,17 +40,16 @@ About the nature of the tweets and dataset gathering, as mentioned in the first 
 
 Additionally, thank you for your attention to the details of our manuscript and the nuanced points you highlighted.
 
-***
-
-### 1. Are the authors considering the use of additional metrics, beyond accuracy?
-
-
-Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced assessment of each class, we chose to concentrate exclusively on the accuracy metric.
+**Questions:**
 
 ***
 
-### 2. Have you checked Gobo https://www.media.mit.edu/projects/gobo/overview/? Are there similar projects these days?
+### 1.
+Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced assessment of each class, we chose to concentrate exclusively on the accuracy metric. But if you think it is necessary, we can include additional metrics in the final version of the paper.
 
+***
+
+### 2. 
 We sincerely appreciate your valuable feedback and acknowledgment of similar projects. We thoroughly investigated the project you highlighted and commend its excellent work, particularly in examining social media governance from a unique perspective—encouraging users to establish **personal policies** for their social media spaces.
 
 In contrast, our project centers around the development of a **decentralized policy** for social media governance, leveraging community preferences alongside a machine learning-based module. Moreover, while we have yet to come across projects that closely resemble our work, the application of decentralization in policymaking is not a novel concept, and we are employing it within the context of social media platforms. Furthermore, we have drawn inspiration from fundamental ideas in Machine Learning concepts and methods, incorporating them into our decentralized policymaking approach, which is novel in our case.
@@ -60,14 +59,12 @@ Moreover, other social media platforms adopt decentralized approaches or persona
 
 ***
 
-### 3. What are the policies about vetting shared by X? Are they following the shared policies?
-
+### 3. 
 That's a valid observation. Initially, in the early stages of our project definition, we considered requiring users to input reasons when voting on a tweet. However, as the project progressed, we recognized the inherent complexity for users, especially those encountering the experiment and platform for the first time, to provide reasons during the voting process. This realization prompted us to reevaluate our approach and make adjustments to ensure a more user-friendly and intuitive experience. Nevertheless, it is a significant point that should be considered in discussions and further studies.
 
 ***
 
-### 4. What are the policies about vetting shared by X? Are they following the shared policies?
-
+### 4. 
 Thank you for providing a detailed tweet and rating process overview. In `Figure (1)`, we have included a screenshot of the questionnaire and the associated platform to comprehensively understand the experiment conditions.
 
 We deliberately opted not to display X's viewpoint and stance on the tweet to mitigate the potential for bias, particularly toward X. Our emphasis on maintaining an even distribution of respondents throughout the experiment led us to select participants from both the informed and uninformed segments of the X policies audience. It's important to note that the entire process, including responding to tweets, was conducted without any personal information of the participants.
