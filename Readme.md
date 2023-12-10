@@ -13,9 +13,9 @@ About the nature of the tweets and dataset gathering, as mentioned in the first 
 ##### Three-Level System for Generating Tweets:
 
 1. **Discovery:**
-   - The tweets refinement and gathering core team master X’s policy for blocking tweets by reading all of X’s guidelines and policies carefully.
-   - Gain a deep insight by reading a large amount of tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
-   - Include metrics in the process of reading tweets (about the Tweets sender) if possible:
+   - The tweets refinement and gathering core team master X's policy for blocking tweets by reading all of X's guidelines and policies carefully.
+   - Gain a deep insight by reading many tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
+   - Include metrics in the process of reading tweets (about the tweet sender) if possible:
      - Age
      - Gender
      - Race
@@ -24,15 +24,15 @@ About the nature of the tweets and dataset gathering, as mentioned in the first 
      - Sexual orientation
 
 2. **Delivery:**
-   - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X’s algorithm on removing tweets, start generating tweets with the following workflow:
+   - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X's algorithm for removing tweets, start generating tweets with the following workflow:
      - For unblocked tweets:
        - Choose ChatGPT or the real tweets on X as your source.
-       - Customize it and make it more natural and human-like using the insight gained through the X’s tweets research step.
+       - Customize and make it more natural and human-like using the insight gained from X's tweets research step.
      - For blocked tweets:
        - Choose a policy-violated tweet on X.
-       - Customize it using the insight gained through the discovery (X’s tweets research) step.
+       - Customize it using the insight gained through the discovery (X's tweets research) step.
        - OR choose a policy and a tweet that can violate it with some changes.
-       - Then customize it and make it violating the policy using the insight gained through the discovery (X’s tweets research) step and the knowledge gained from policies.
+       - Then, customize it and make it violate the policy using the insight gained through the discovery (X's tweets research) step and the knowledge gained from policies.
 
 3. **Assurance:**
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
