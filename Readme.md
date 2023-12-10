@@ -62,7 +62,7 @@ Moreover, other social media platforms adopt decentralized approaches or persona
 
 ### 3. What are the policies about vetting shared by X? Are they following the shared policies?
 
-That's a valid observation. Initially, in the early stages of our project definition, we considered requiring users to input reasons when voting on a tweet. However, as the project progressed, we recognized the inherent complexity for users, especially those encountering the experiment and platform for the first time, to provide reasons during the voting process. This realization prompted us to reevaluate our approach and make adjustments to ensure a more user-friendly and intuitive experience. Nevertheless, it is a significant point that should be taken into consideration in discussions and also in further studies.
+That's a valid observation. Initially, in the early stages of our project definition, we considered requiring users to input reasons when voting on a tweet. However, as the project progressed, we recognized the inherent complexity for users, especially those encountering the experiment and platform for the first time, to provide reasons during the voting process. This realization prompted us to reevaluate our approach and make adjustments to ensure a more user-friendly and intuitive experience. Nevertheless, it is a significant point that should be considered in discussions and further studies.
 
 ***
 
