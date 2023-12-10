@@ -84,7 +84,7 @@ Thank you for your valuable comments on our submission "User Voices, Platform Ch
 
 ### Pros and Cons
 
-Thanks for providing a comprehensive evaluation with pros and cons from different perspectives for this paper. In this part, we will address some of your mentioned concerns which are not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
+Thanks for providing a comprehensive evaluation of this paper with pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
 ***
 
