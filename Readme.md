@@ -129,15 +129,15 @@ We also hypothesized that the low correlation between LLMs and users' policy is 
 
 ### 3. In Table 4., the authors provide an ablation study comparing the policy estimator with and without context decoder. Is there a similar ablation study comparing performance with the ensemble of policy models versus only one policy model?
 
-That is a completely valid concern. We ran our models again without using ensemble learning, but the difference in performance was not significant. Initially, as using ensemble learning in our "Context Decoder" module improved performance, we thought this approach would improve the "Context Decoder" model too, so we included it by default. However, after reevaluating, it seems that using ensemble learning in the "Policy Estimator" doesn't significantly enhance performance. Thanks for your feedback.
+That is a completely valid concern. We reran our models without using ensemble learning, but the performance difference was insignificant. Initially, as using ensemble learning in our "Context Decoder" module improved performance, we thought this approach would also enhance the "Context Decoder" model, so we included it by default. However, after reevaluating, ensemble learning in the "Policy Estimator" doesn't significantly enhance performance. Thanks for your feedback.
 
 ***
 
 ### Additional:1. As mentioned in the section above, qualitative analysis on the confusion matrices presented Fig 3-5 would provide interesting insights. Also providing a disaggregated analysis on how the model performs for different users would provide more credence to some of the claims the paper makes.
 
-Thank you for your suggestion. Offering a detailed analysis of individual user performance could indeed provide valuable insights into the data. However, in our experiment, we opted to simplify the problem by removing user profiles and maintaining user anonymity regarding personal information. This decision was made to prevent complications for users, especially since it was our first time conducting such an experiment. By keeping the user experience straightforward, we aimed to retain more participants. 
+Thank you for your suggestion. A detailed analysis of individual user performance provides valuable insights into the data. However, in our experiment, we opted to simplify the problem by removing user-profiles and maintaining user anonymity regarding personal information. This decision was made to prevent complications for users, especially since it was our first time conducting such an experiment. By keeping the user experience straightforward, we aimed to retain more participants. 
 
-Consequently, we lack additional information about each user, making it impossible to explore the correlation between personal attributes and opinions for disaggregated results. While we acknowledge the merit of this idea, we believe it can be addressed in future studies and discussions.
+Consequently, we need additional information about each user, making it impossible to explore the correlation between personal attributes and opinions for disaggregated results. While we acknowledge the merit of this idea, it can be addressed in future studies and discussions.
 
 ***
 
@@ -147,7 +147,7 @@ Consequently, we lack additional information about each user, making it impossib
 
 ### Finally:1. In Fig. 1, the text asks “Should this tweet be remained?” Could the authors explain the rationale for phrasing the question as “be remained?” Is this standard jargon for content moderation?
 
-Thank you for your professional feedback. We use clear language to make our requests straightforward for respondents, considering their international background. Using overly complex text can increase cognitive load, so we simplify and clarify concepts with color and grading. Exploring the impact of specific words in our requests, like "remained" or "in the border view," could be an interesting topic for future research. Consequently, it is a great idea to investigate the effect of UI/UX (User Interface/User Experience) in further discussions.
+Thank you for your professional feedback. We use clear language to make our requests straightforward for respondents, considering their international background. Using overly complex text can increase cognitive load, so we simplify and clarify concepts with color and grading. Exploring the impact of specific words in our requests, like "remained" or "in the border view," could be an exciting topic for future research. Consequently, it is a great idea to investigate the effect of UI/UX (User Interface/User Experience) in further discussions.
 
 ***
 
