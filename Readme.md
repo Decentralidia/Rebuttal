@@ -45,7 +45,7 @@ Additionally, thank you for your attention to the details of our manuscript and 
 ### 1. Are the authors considering the use of additional metrics, beyond accuracy?
 
 
-Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced evaluation of each class, we chose to concentrate exclusively on the accuracy metric.
+Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced assessment of each class, we chose to concentrate exclusively on the accuracy metric.
 
 ***
 
