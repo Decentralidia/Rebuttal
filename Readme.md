@@ -8,11 +8,11 @@ Thank you for your valuable comments and suggestions on our submission. We aim t
 
 In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
-About the nature of the tweets and dataset gathering, as mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+About the nature of the tweets and dataset gathering, as mentioned in the first paragraph of Section 4.1, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
 ##### Three-Level System for Generating Tweets:
 
-1. **Discovery:**
+1. Discovery:
    - The tweets refinement and gathering core team master X's policy for blocking tweets by reading all of X's guidelines and policies carefully.
    - Gain a deep insight by reading many tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
    - Include metrics in the process of reading tweets (about the tweet sender) if possible:
@@ -23,7 +23,7 @@ About the nature of the tweets and dataset gathering, as mentioned in the first 
      - Education level
      - Sexual orientation
 
-2. **Delivery:**
+2. Delivery:
    - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X's algorithm for removing tweets, start generating tweets with the following workflow:
      - For unblocked tweets:
        - Choose ChatGPT or the real tweets on X as your source.
@@ -34,7 +34,7 @@ About the nature of the tweets and dataset gathering, as mentioned in the first 
        - OR choose a policy and a tweet that can violate it with some changes.
        - Then, customize it and make it violate the policy using the insight gained through the discovery (X's tweets research) step and the knowledge gained from policies.
 
-3. **Assurance:**
+3. Assurance:
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
 
@@ -47,17 +47,17 @@ Additionally, thank you for your attention to the details of our manuscript and 
 ***
 
 ### 1.
-Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in `Section 6.2` of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced assessment of each class, we chose to concentrate exclusively on the accuracy metric. But if you think it is necessary, we can include additional metrics in the final version of the paper.
+Thanks for providing feedback on the reported metrics. Nevertheless, as mentioned in Section 6.2 of the paper (lines 617 and 618), we tackled the imbalanced data issue during training by implementing a weighted loss. Additionally, in the test dataset, we took measures to ensure an equal representation of samples from both groups for the final evaluation. Therefore, given the space limitations in the paper and the fact that accuracy can effectively reflect the model's performance in a balanced assessment of each class, we chose to concentrate exclusively on the accuracy metric. But if you think it is necessary, we can include additional metrics in the final version of the paper.
 
 ***
 
 ### 2. 
-We sincerely appreciate your valuable feedback and acknowledgment of similar projects. We thoroughly investigated the project you highlighted and commend its excellent work, particularly in examining social media governance from a unique perspective—encouraging users to establish **personal policies** for their social media spaces.
+We sincerely appreciate your valuable feedback and acknowledgment of similar projects. We thoroughly investigated the project you highlighted and commend its excellent work, particularly in examining social media governance from a unique perspective—encouraging users to establish personal policies for their social media spaces.
 
-In contrast, our project centers around the development of a **decentralized policy** for social media governance, leveraging community preferences alongside a machine learning-based module. Moreover, while we have yet to come across projects that closely resemble our work, the application of decentralization in policymaking is not a novel concept, and we are employing it within the context of social media platforms. Furthermore, we have drawn inspiration from fundamental ideas in Machine Learning concepts and methods, incorporating them into our decentralized policymaking approach, which is novel in our case.
+In contrast, our project centers around the development of a decentralized policy for social media governance, leveraging community preferences alongside a machine learning-based module. Moreover, while we have yet to come across projects that closely resemble our work, the application of decentralization in policymaking is not a novel concept, and we are employing it within the context of social media platforms. Furthermore, we have drawn inspiration from fundamental ideas in Machine Learning concepts and methods, incorporating them into our decentralized policymaking approach, which is novel in our case.
 
 
-Moreover, other social media platforms adopt decentralized approaches or personalization features, such as [Mastodon](https://joinmastodon.org) and [Peepeth](https://peepeth.com). However, their approaches differ from ours. For instance, "Mastodon" customizes users' feeds based on their preferences rather than conforming to social media decisions. Additionally, "Peepeth" operates as a blockchain-powered social media platform with a distinct approach, while we provided a **decentralized policymaking**, coupled with utilizing a **policy estimator ML-based module**.
+Moreover, other social media platforms adopt decentralized approaches or personalization features, such as [Mastodon](https://joinmastodon.org) and [Peepeth](https://peepeth.com). However, their approaches differ from ours. For instance, "Mastodon" customizes users' feeds based on their preferences rather than conforming to social media decisions. Additionally, "Peepeth" operates as a blockchain-powered social media platform with a distinct approach, while we provided a decentralized policymaking, coupled with utilizing a policy estimator ML-based module.
 
 ***
 
@@ -67,13 +67,13 @@ That's a valid observation. Initially, in the early stages of our project defini
 ***
 
 ### 4. 
-Thank you for providing a detailed tweet and rating process overview. In `Figure (1)`, we have included a screenshot of the questionnaire and the associated platform to comprehensively understand the experiment conditions.
+Thank you for providing a detailed tweet and rating process overview. In Figure (1), we have included a screenshot of the questionnaire and the associated platform to comprehensively understand the experiment conditions.
 
 We deliberately opted not to display X's viewpoint and stance on the tweet to mitigate the potential for bias, particularly toward X. Our emphasis on maintaining an even distribution of respondents throughout the experiment led us to select participants from both the informed and uninformed segments of the X policies audience. It's important to note that the entire process, including responding to tweets, was conducted without any personal information of the participants.
 
 Initially, our project envisioned compelling users to provide reasons when voting on a tweet. However, as the experiment progressed and users encountered the platform for the first time, we recognized the complexity of asking participants to articulate their reasons. We decided to streamline the user experience by removing the requirement.
 
-Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although posing questions such as "X suggests that this post should be vetted because _____ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to **minimize the potential for bias** in the respondents' final opinions.
+Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although posing questions such as "X suggests that this post should be vetted because _ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to minimize the potential for bias in the respondents' final opinions.
 
 # Reviewer 2
 
@@ -85,7 +85,7 @@ Thanks for your constructive feedback and helpful comments.
 
 Thanks for providing a comprehensive evaluation of this paper with pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
-Your comment about majority/minority groups is insightful. Since we train our policy model based on the aggregated data, it will follow the policy based on the average of users when each data point is treated equally. It will be a good direction for future studies to first cluster individuals into different groups based on their historical behavior in social media, and then offer specialized policies for each group. This could be considered as the second phase of the present study, focusing on fairness and reducing algorithmic biases.
+Your comment about majority/minority groups is insightful. Since we train our policy model based on the aggregated data, it will follow the policy based on the average of users when each data point is treated equally. It will be a good direction for future studies to first cluster individuals into different groups based on their historical behavior in social media. Subsequently, specialized policies for each group or a general policy based on weighted minority samples (regarding their population) can be offered. This could be considered as the second phase of the present study, focusing on fairness and reducing algorithmic biases.
 
 You’ve pointed out that _"The authors chose relatively low stakes domains (e.g., technology, entertainment) for tweets."_ First of all, thank you for your feedback on our tweets domain. I have to mention that we implemented topics such as politics, Gender, Race and some other different controversial topics in the tweets coated with the chosen topics (e.g., technology, entertainment).
 The big strength of these topics is their generality. So that the respondent can easily recognize the context of the tweet and make a clear relation with it, which is followed by a more fluent formation of opinion by him/her. This frictionless experience only came about because of using popular topics as the main theme and adding controversial concepts to the theme in order to form both easy on the eye and challenging situations for the respondent.
@@ -98,7 +98,7 @@ The big strength of these topics is their generality. So that the respondent can
 
 ### 1. 
 
-Thank you for providing concise feedback. Ensuring respondent diversity was a key priority in our crowdsourcing process. Before initiating the process, we established four primary metrics (as outlined in `Section 4.3`, line 359) to encompass variations in:
+Thank you for providing concise feedback. Ensuring respondent diversity was a key priority in our crowdsourcing process. Before initiating the process, we established four primary metrics (as outlined in Section 4.3, line 359) to encompass variations in:
 
 1. Age
 2. Gender
@@ -148,7 +148,7 @@ Consequently, we need additional information about each user, making it impossib
 ***
 
 ### Additional:2. 
-Analyzing different thresholds is not critical in the case of balanced classification. Using weighted loss or oversampling the minority class are some ways to make the classification problem more balanced. However, based on your (and also the reviewer Df2U) suggestions we can add a brief analysis based on additional metrics (precision, recall,  F1 score, AUC) and also optimal threshold selection, in the final version of the paper. 
+Analyzing different thresholds is not critical in the case of balanced classification. Using weighted loss or oversampling the minority class are some ways to make the classification problem more balanced. However, based on your (and also the reviewer Sf2U) suggestions we can add a brief analysis based on additional metrics (precision, recall,  F1 score, AUC) and also optimal threshold selection, in the final version of the paper. 
 
 ***
 
@@ -158,11 +158,11 @@ Thank you for your professional feedback. We use clear language to make our requ
 ***
 
 ### Finally: 2. 
-Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of `Section 4.1`, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
+Thank you for your feedback on the tweets poll subject. As mentioned in the first paragraph of Section 4.1, we closely refine all tweets and rigorously measure the sense and naturality of the tweets through multiple levels of human feedback before adding them to the main experiment.
 
 #### Three-Level System for Generating Tweets:
 
-1. **Discovery:**
+1. Discovery:
    - The tweets refinement and gathering core team master X's policy for blocking tweets by reading all of X's guidelines and policies carefully.
    - Gain a deep insight by reading many tweets (unblocked and blocked by X) from diverse sources in the three chosen categories.
    - Include metrics in the process of reading tweets (about the tweet sender) if possible:
@@ -173,7 +173,7 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
      - Education level
      - Sexual orientation
 
-2. **Delivery:**
+2. Delivery:
    - After gaining a high level of understanding about the nature and the space of X in the chosen categories and X's algorithm for removing tweets, start generating tweets with the following workflow:
      - For unblocked tweets:
        - Choose ChatGPT or the real tweets on X as your source.
@@ -184,9 +184,10 @@ Thank you for your feedback on the tweets poll subject. As mentioned in the firs
        - OR choose a policy and a tweet that can violate it with some changes.
        - Then, customize it and make it violate the policy using the insight gained through the discovery (X's tweets research) step and the knowledge gained from policies.
 
-3. **Assurance:**
+3. Assurance:
    - After tweets are delivered, conduct an initial test by asking an initial team of respondents to rate all tweets based on their removal.
    - Recheck all tweets based on their grammatical and vocabulary correctness to ensure the most natural, human-like, X-like, and challenging tweets possible.
+
 
 # Reviewer 3
 
