@@ -68,13 +68,13 @@ That's a valid observation. Initially, in the early stages of our project defini
 
 ### 4. What are the policies about vetting shared by X? Are they following the shared policies?
 
-Thank you for providing a detailed overview of the tweet and tweet rating process. In `Figure (1)`, we have included a screenshot of the questionnaire and the associated platform to offer a comprehensive understanding of the experiment conditions.
+Thank you for providing a detailed tweet and rating process overview. In `Figure (1)`, we have included a screenshot of the questionnaire and the associated platform to comprehensively understand the experiment conditions.
 
-To mitigate the potential for bias, particularly toward X, we deliberately opted not to display X's viewpoint and stance on the tweet. Our emphasis on maintaining an even distribution of respondents throughout the experiment led us to select participants from both the informed and uninformed segments of the X policies audience. It's important to note that the entire process, including responding to tweets, was conducted without any personal information of the participants.
+We deliberately opted not to display X's viewpoint and stance on the tweet to mitigate the potential for bias, particularly toward X. Our emphasis on maintaining an even distribution of respondents throughout the experiment led us to select participants from both the informed and uninformed segments of the X policies audience. It's important to note that the entire process, including responding to tweets, was conducted without any personal information of the participants.
 
-Initially, our project envisioned compelling users to provide reasons when voting on a tweet. However, as the experiment progressed and users encountered the platform for the first time, we recognized the complexity involved in asking participants to articulate their reasons. Consequently, we decided to streamline the user experience by removing the requirement for reasons.
+Initially, our project envisioned compelling users to provide reasons when voting on a tweet. However, as the experiment progressed and users encountered the platform for the first time, we recognized the complexity of asking participants to articulate their reasons. We decided to streamline the user experience by removing the requirement.
 
-Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although the idea of posing questions such as "X suggests that this post should be vetted because _____ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to **minimize the potential for bias** in the respondents' final opinions.
+Throughout the experiment, we placed a high priority on fostering unbiased and self-formed opinions among respondents. Although posing questions such as "X suggests that this post should be vetted because _____ Do you agree or disagree with this statement?" seemed intriguing, we opted against such inquiries to **minimize the potential for bias** in the respondents' final opinions.
 
 # Reviewer 2
 
