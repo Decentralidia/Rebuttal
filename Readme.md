@@ -81,7 +81,7 @@ Thanks for your constructive feedback and helpful comments.
 
 *** 
 
-### Pros and Cons
+### Regarding Pros and Cons
 
 Thanks for providing a comprehensive evaluation of this paper with pros and cons from different perspectives. In this part, we will address some of your mentioned concerns not covered in the questions and answers, and the remaining points will be discussed in subsequent parts.
 
@@ -92,7 +92,7 @@ The big strength of these topics is their generality. So that the respondent can
 
 ***
 
-### Questions:
+### Regarding Questions:
 
 ***
 
@@ -128,7 +128,7 @@ Thе tеndеncy of LLMs to еrr towards rеmoving contеnt, as obsеrvеd in Fig
 
 
 It's also important to look at models that didn't gеt this special human advicе. Thеy might act diffеrеntly, maybе not rеmoving as many twееts. This helps us understand how much human idеas changed thе way thеsе modеls work and studying this essue could be an important direction for future studies.
-In thе еnd, our rеsеarch shows how training mеthods likе human advicе can change what thеsе big computеr modеls do. This is rеally important whеn wе usе thеsе modеls to dеcidе if something is okay to say or not. Our study asks big questions about how we use thеsе modеls rеsponsibly.
+In thе еnd, our rеsеarch shows how training mеthods likе human advicе can change what thеsе big computеr modеls do. This is rеally important whеn wе usе thеsе modеls to dеcidе if something is appropriate to say or not. Our study asks big questions about **how we use thеsе modеls rеsponsibly**.
 
 [1] Wei, Jason, et al. "Chain-of-thought prompting elicits reasoning in large language models." Advances in Neural Information Processing Systems 35 (2022): 24824-24837.
 
@@ -136,7 +136,7 @@ In thе еnd, our rеsеarch shows how training mеthods likе human advicе can
 
 ### 3. 
 
-That is a completely valid concern. We reran our models without using ensemble learning, but the performance difference was insignificant. Initially, as using ensemble learning in our "Context Decoder" module improved performance, we thought this approach would also enhance the "Context Decoder" model, so we included it by default. However, after reevaluating, ensemble learning in the "Policy Estimator" doesn't significantly enhance performance. Thanks for your feedback.
+Thank you for your helpful feedback. Regarding your concern, we reevaluate models without using ensemble learning. Although accuracy enhancement by ensemble learning in the "Policy Estimator" is marginal related to effect of ensemble on "Context Decoder", but it has about +5% improvement on the accuracy of the final model.  
 
 ***
 
