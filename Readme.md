@@ -1,7 +1,9 @@
 # Area Chair
 
 We appreciate all reviewers for their insightful feedback and valuable comments. We believe that a part of the highlighted issues can be added to the current submission without major changes in the camera-ready version.
+
 It is worth mentioning that the primary objective of the proposed approach is to address the challenges and issues of centralized social media governance, followed by presenting a prototype of a decentralized policy framework for such platforms. To this end, we took a data-driven strategy by collecting users' preferences and developing a machine learning-based model to learn policy. Additionally, we conducted some meta-analysis, including a comparison between the suggested data-driven method and LLMs policy-making to illustrate the importance of user data for developing a policy model.
+
 We believe that some of the points raised by reviewers are worthwhile; however, a proportion of them are beyond the main scope of this work. By proposing this study, we aim to arouse new motivations and questions in the community. It should be taken into account that covering various aspects of this area in an eight-page paper is not feasible. Therefore, we can note some of the points in the discussion of the current paper, but more dedicated studies are needed to investigate different matters such as qualitative experiments, LLMs-based policies, fairness, etc.
 
 
